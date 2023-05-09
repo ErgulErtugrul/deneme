@@ -28,7 +28,7 @@ public class WrapperClass {
         int intMin = Integer.MIN_VALUE;
         byte byteMax = Byte.MAX_VALUE;
         System.out.println("intMin+byteMax");
-        //Örnek3: Primitive inti wrapper İntegere çeviriniz.
+        //Örnek3: Primitive inti wrapper İntegere çeviriniz...
 
 
 
